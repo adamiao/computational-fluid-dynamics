@@ -1,0 +1,13 @@
+GAMMA = 1.4
+L = 1.0
+R = 287.05  # [J * kg^-1 * K^-1]
+N = 61
+x0 = 0.0
+xN = 3.0
+T0 = 370.0
+C = 0.5  # Courant-Friedrichs-Lowry (CFL) criterion constant
+dx = (xN - x0) / (L * (N - 1))
+ITERATIONS = 1400
+U2_INITIAL_VALUE = 0.59
+PRESSURE_RATIO_AT_EXIT = 0.6784
+Cx = 0.2
