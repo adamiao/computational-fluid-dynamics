@@ -1,7 +1,7 @@
 # Computational Fluid Dynamics
 
 This repository was created with the purpose of learning and practicing the techniques used in the theory of computational fluid dynamics (CFD). The codes contained in this repository were all made in the Python programming language.
-The choice for this programming language, rather than a compiled language, was mainly so that the focus is on the application of the algorithms rather than on the nuances of code implementation. 
+The choice for this programming language, rather than a compiled language, was to focus on the application of the algorithms rather than on the nuances of code implementation. 
 
 The examples shown here are from the following book:
 
